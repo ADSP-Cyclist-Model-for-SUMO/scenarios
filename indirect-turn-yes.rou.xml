@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2021-11-22 01:41:01 by Eclipse SUMO netedit Version 1.10.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="D:\SUMO\sumo-1_10_0\sumo\tools\sit1\sit1.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="D:\SUMO\sumo-1_10_0\sumo\tools\sit2\sit2.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+    <netedit>
+        <route-files value="D:\SUMO\sumo-1_10_0\sumo\tools\sit2\car.rou.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <flow id="flow_00" begin="0.00" from="7" to="2" end="3600.00" probability="0.01"/>
+    <flow id="flow_01" begin="0.00" from="4" to="2" end="3600.00" probability="0.10"/>
+    <flow id="flow_02" begin="0.00" from="5" to="2" end="3600.00" probability="0.05"/>
+    <flow id="flow_03" begin="0.00" from="6" to="1" end="3600.00" probability="0.01"/>
+    <flow id="flow_10" begin="0.00" from="7" to="1" end="3600.00" probability="0.10"/>
+    <flow id="flow_11" begin="0.00" from="4" to="1" end="3600.00" probability="0.05"/>
+    <flow id="flow_12" begin="0.00" from="5" to="0" end="3600.00" probability="0.01"/>
+    <flow id="flow_13" begin="0.00" from="6" to="0" end="3600.00" probability="0.10"/>
+    <flow id="flow_20" begin="0.00" from="7" to="0" end="3600.00" probability="0.05"/>
+    <flow id="flow_21" begin="0.00" from="4" to="3" end="3600.00" probability="0.01"/>
+    <flow id="flow_22" begin="0.00" from="5" to="3" end="3600.00" probability="0.10"/>
+    <flow id="flow_23" begin="0.00" from="6" to="3" end="3600.00" probability="0.05"/>
+    <flow id="flow_30" type="DEFAULT_BIKETYPE" begin="0.00" from="7" to="0" end="3600.00" probability="0.05"/>
+    <flow id="flow_31" type="DEFAULT_BIKETYPE" begin="0.00" from="4" to="3" end="3600.00" probability="0.01"/>
+    <flow id="flow_32" type="DEFAULT_BIKETYPE" begin="0.00" from="5" to="3" end="3600.00" probability="0.10"/>
+    <flow id="flow_33" type="DEFAULT_BIKETYPE" begin="0.00" from="6" to="3" end="3600.00" probability="0.05"/>
+    <flow id="flow_40" type="DEFAULT_BIKETYPE" begin="0.00" from="7" to="1" end="3600.00" probability="0.10"/>
+    <flow id="flow_41" type="DEFAULT_BIKETYPE" begin="0.00" from="4" to="1" end="3600.00" probability="0.05"/>
+    <flow id="flow_42" type="DEFAULT_BIKETYPE" begin="0.00" from="5" to="0" end="3600.00" probability="0.01"/>
+    <flow id="flow_43" type="DEFAULT_BIKETYPE" begin="0.00" from="6" to="0" end="3600.00" probability="0.10"/>
+    <flow id="flow_50" type="DEFAULT_BIKETYPE" begin="0.00" from="7" to="2" end="3600.00" probability="0.01"/>
+    <flow id="flow_51" type="DEFAULT_BIKETYPE" begin="0.00" from="4" to="2" end="3600.00" probability="0.10"/>
+    <flow id="flow_52" type="DEFAULT_BIKETYPE" begin="0.00" from="5" to="2" end="3600.00" probability="0.05"/>
+    <flow id="flow_53" type="DEFAULT_BIKETYPE" begin="0.00" from="6" to="1" end="3600.00" probability="0.01"/>
+</routes>

@@ -6,10 +6,16 @@
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
-        <net-file value="/home/levidaily/linux/Repositories/sumo/tests/quickstart/straight-line.net.xml"/>
-        <route-files value="/home/levidaily/linux/Repositories/sumo/tests/quickstart/straight-line.rou.xml"/>
+        <net-file value="straight-line.net.xml"/>
+        <route-files value="straight-line.rou.xml"/>
     </input>
-    <lanechange.duration>3.0</lanechange.duration>
-    <step-length value="0.01" />
+	
+    <time>
+        <step-length value="0.01"/>
+    </time>
+  
+    <processing>
+        <lanechange.duration value="3.0"/>
+    </processing>
 
 </configuration>
