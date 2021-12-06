@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2021-11-29 16:16:54 by Eclipse SUMO GUI Version v1_10_0+1831-77099b212b6
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="./intro-scenario.net.xml"/>
+        <route-files value="./intro-scenario.rou.xml"/>
+    </input>
+
+    <step-length value="0.01" />
+    <lateral-resolution value="-1" />
+    <lanechange.duration>3.0</lanechange.duration>
+</configuration>

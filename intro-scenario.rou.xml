@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2021-11-29 16:23:43 by Eclipse SUMO netedit Version v1_10_0+1831-77099b212b6
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="vehicle_0" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_10" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_11" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_12" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_13" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_14" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_15" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_16" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_17" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_18" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_19" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_20" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_21" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_22" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_23" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_24" depart="0.00" from="E7" to="E0"/>
+    <trip id="vehicle_3" depart="0.03" from="E7" to="E1"/>
+    <trip id="vehicle_4" depart="0.04" from="E7" to="E1"/>
+    <trip id="vehicle_5" depart="0.05" from="E7" to="E1"/>
+    <trip id="vehicle_6" depart="0.05" from="E7" to="E1"/>
+    <trip id="vehicle_100" depart="0.19" from="E7" to="E0"/>
+    <trip id="vehicle_101" depart="0.20" from="E7" to="E0"/>
+    <trip id="vehicle_206" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_212" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_202" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_207" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_203" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_208" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_201" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_205" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_204" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_209" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_210" depart="50.00" from="-E1" to="E6"/>
+    <trip id="vehicle_211" depart="50.00" from="-E1" to="E6"/>
+</routes>

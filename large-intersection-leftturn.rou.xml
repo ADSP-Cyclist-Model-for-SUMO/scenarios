@@ -1,21 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2021-11-26 10:12:00 by Eclipse SUMO netedit Version v1_10_0+1831-77099b212b6
+<!-- generated on 2021-11-29 13:01:23 by Eclipse SUMO netedit Version v1_10_0+1831-77099b212b6
 -->
 
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
-    <trip id="vehicle_2" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
-    <trip id="vehicle_6" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
-    <trip id="vehicle_1" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
-    <trip id="vehicle_5" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
-    <trip id="vehicle_4" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
-    <trip id="vehicle_7" depart="0.00" from="E1" to="-E2"/>
-    <trip id="vehicle_13" depart="0.00" from="E1" to="-E2"/>
-    <trip id="vehicle_0" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
     <trip id="vehicle_3" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
     <trip id="vehicle_8" depart="0.00" from="E1" to="-E2"/>
     <trip id="vehicle_11" depart="0.00" from="E1" to="-E2"/>
+    <trip id="vehicle_2" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
+    <trip id="vehicle_4" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
+    <trip id="vehicle_13" depart="0.00" from="E1" to="-E2"/>
+    <trip id="vehicle_7" depart="0.00" from="E1" to="-E2"/>
+    <trip id="vehicle_1" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
+    <trip id="vehicle_0" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
+    <trip id="vehicle_6" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
+    <trip id="vehicle_5" type="DEFAULT_BIKETYPE" depart="0.00" from="E1" to="-E2"/>
     <trip id="vehicle_10" depart="0.00" from="E1" to="-E2"/>
     <trip id="vehicle_12" depart="0.00" from="E1" to="-E2"/>
     <trip id="vehicle_9" depart="0.00" from="E1" to="-E2"/>
+    <trip id="vehicle_14" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_15" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_16" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_17" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_18" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_19" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_20" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_21" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_22" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_23" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_24" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_25" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_26" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_27" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_28" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_29" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_30" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_31" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_32" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_33" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_34" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_35" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_36" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_37" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_38" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_39" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_40" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_41" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_42" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_43" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_44" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_45" depart="0.00" from="E3" to="-E1"/>
+    <trip id="vehicle_46" depart="0.00" from="E3" to="-E1"/>
 </routes>
